@@ -6,6 +6,7 @@ def main():
         "1. Prodi Informatika UBM memiliki fasilitas lengkap.",
         "2. Prodi Informatika memiliki tenaga pengajar yang berkualitas.",
         "3. UBM Memiliki Akreditasi Unggul",
+        "4. "
     ]
     
     for item in alasan:
